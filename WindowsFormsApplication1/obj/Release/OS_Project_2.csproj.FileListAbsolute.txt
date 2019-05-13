@@ -1,0 +1,16 @@
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\OS_Project_2.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Draw.resources
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.start.resources
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Holes_Info.resources
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\OS_Project_2.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\OS_Project_2.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.manifest
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.application
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Ali\Desktop\3rd Electrical\2nd Term\Operating Systems\Memory Project\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
